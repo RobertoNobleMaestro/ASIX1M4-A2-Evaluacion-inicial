@@ -10,7 +10,7 @@ Un sitio web es un conjunto de páginas web relacionadas entre sí y que compart
 
 3. ¿Qué es una aplicación web?
 
-Básicamente, es un conjunto de programas o aplicaciones diseñadas para realizar tareas de oficina,
+Es un software que se accede a través de un navegador web.
 
 4. ¿Qué es una herramienta ofimática?
 
@@ -31,7 +31,7 @@ Básicamente, es un conjunto de programas o aplicaciones diseñadas para realiza
 
 HTML es un lenguaje de marcado que se utiliza para estructurar el contenido de una página web, como textos, imágenes y enlaces.
 
-```
+``
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,7 +44,7 @@ HTML es un lenguaje de marcado que se utiliza para estructurar el contenido de u
 
 </body>
 </html>
-```
+``
 
 7. ¿Qué es ``CSS``?
 
