@@ -20,11 +20,11 @@ Básicamente, es un conjunto de programas o aplicaciones diseñadas para realiza
 
 |Aplicaciones|Visto|
 |------------|-----|
-|Google Docs|![Esto es una imagen del cielo](https://github.com/RobertoNobleMaestro/ASIX1M4-A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-10-04%20132733.png)|
-|Google Slides|![Esto es una imagen del cielo](https://github.com/RobertoNobleMaestro/ASIX1M4-A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-10-04%20132733.png)|
-|Google Sheets|![Esto es una imagen del cielo](https://github.com/RobertoNobleMaestro/ASIX1M4-A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-10-04%20132733.png)|
-|Google Calendar|![Esto es una imagen del cielo]( https://github.com/RobertoNobleMaestro/ASIX1M4-A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-10-04%20132808.png)|
-|Google Meet|![Esto es una imagen del cielo](https://github.com/RobertoNobleMaestro/ASIX1M4-A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-10-04%20132843.png)|
+|Google Docs|![Tick](https://github.com/RobertoNobleMaestro/ASIX1M4-A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-10-04%20132733.png)|
+|Google Slides|![Tick](https://github.com/RobertoNobleMaestro/ASIX1M4-A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-10-04%20132733.png)|
+|Google Sheets|![Tick](https://github.com/RobertoNobleMaestro/ASIX1M4-A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-10-04%20132733.png)|
+|Google Calendar|![Calendar]( https://github.com/RobertoNobleMaestro/ASIX1M4-A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-10-04%20132808.png)|
+|Google Meet|![Google Meet](https://github.com/RobertoNobleMaestro/ASIX1M4-A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-10-04%20132843.png)|
 |...|...|
 
 6. Qué es ``HTML``?´
