@@ -14,7 +14,7 @@ Es un software que se accede a través de un navegador web.
 
 4. ¿Qué es una herramienta ofimática?
 
-Básicamente, es un conjunto de programas o aplicaciones diseñadas para realizar tareas de oficina,
+Básicamente, es un conjunto de programas o aplicaciones diseñadas para realizar tareas de oficina.
 
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")
 
