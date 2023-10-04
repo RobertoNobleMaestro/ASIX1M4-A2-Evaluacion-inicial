@@ -20,18 +20,18 @@ Básicamente, es un conjunto de programas o aplicaciones diseñadas para realiza
 
 |Aplicaciones|Visto|
 |------------|-----|
-|Google Docs||
-|Google Slides||
-|Google Sheets||
-|Google Calendar||
-|Google Meet||
+|Google Docs|![Esto es una imagen del cielo](https://github.com/RobertoNobleMaestro/ASIX1M4-A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-10-04%20132733.png)|
+|Google Slides|![Esto es una imagen del cielo](https://github.com/RobertoNobleMaestro/ASIX1M4-A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-10-04%20132733.png)|
+|Google Sheets|![Esto es una imagen del cielo](https://github.com/RobertoNobleMaestro/ASIX1M4-A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-10-04%20132733.png)|
+|Google Calendar|![Esto es una imagen del cielo]( https://github.com/RobertoNobleMaestro/ASIX1M4-A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-10-04%20132808.png)|
+|Google Meet|![Esto es una imagen del cielo](https://github.com/RobertoNobleMaestro/ASIX1M4-A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-10-04%20132843.png)|
 |...|...|
 
 6. Qué es ``HTML``?´
 
 HTML es un lenguaje de marcado que se utiliza para estructurar el contenido de una página web, como textos, imágenes y enlaces.
 
-``
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,10 +44,12 @@ HTML es un lenguaje de marcado que se utiliza para estructurar el contenido de u
 
 </body>
 </html>
-``
+```
 
 7. ¿Qué es ``CSS``?
 
 CSS, por otro lado, es un lenguaje de estilo que se utiliza para darle formato y diseño a una página web, controlando aspectos como colores, fuentes y diseño visual.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+![Esquema HTML](https://github.com/RobertoNobleMaestro/ASIX1M4-A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-10-04%20132240.png)
