@@ -27,7 +27,7 @@ Básicamente, es un conjunto de programas o aplicaciones diseñadas para realiza
 |Google Meet|![Google Meet](https://github.com/RobertoNobleMaestro/ASIX1M4-A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-10-04%20132843.png)|
 |...|...|
 
-6. Qué es ``HTML``?´
+6. Qué es ``HTML``?
 
 HTML es un lenguaje de marcado que se utiliza para estructurar el contenido de una página web, como textos, imágenes y enlaces.
 
