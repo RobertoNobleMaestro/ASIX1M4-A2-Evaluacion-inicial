@@ -4,7 +4,7 @@
 
 Una página web es un documento electrónico que forma parte de un sitio web y se puede acceder a través de un navegador web.
 
-2. ¿Qué es un sitio web??
+2. ¿Qué es un sitio web?
 
 Un sitio web es un conjunto de páginas web relacionadas entre sí y que comparten un dominio común.
 
@@ -27,7 +27,9 @@ Básicamente, es un conjunto de programas o aplicaciones diseñadas para realiza
 |Google Meet||
 |...|...|
 
-6. Qué es ``HTML``?
+6. Qué es ``HTML``?´
+
+HTML es un lenguaje de marcado que se utiliza para estructurar el contenido de una página web, como textos, imágenes y enlaces.
 
 ```
 <!DOCTYPE html>
@@ -45,5 +47,7 @@ Básicamente, es un conjunto de programas o aplicaciones diseñadas para realiza
 ```
 
 7. ¿Qué es ``CSS``?
+
+CSS, por otro lado, es un lenguaje de estilo que se utiliza para darle formato y diseño a una página web, controlando aspectos como colores, fuentes y diseño visual.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
